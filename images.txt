@@ -17,4 +17,5 @@ langgenius/dify-sandbox:latest
 #nginx:alpine-slim
 #python:3.10-alpine3.19
 #python:3.7-alpine3.18
-amazoncorretto:17-alpine3.19
+#amazoncorretto:17-alpine3.19
+amazoncorretto:17-al2023-jdk
