@@ -6,18 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 langgenius/dify-api:main
 langgenius/dify-web:main
-langgenius/dify-sandbox:latest
-#node:lts-bullseye
-#node:23-alpine
-#node:22-alpine
-#node:20-alpine
-#node:18-alpine
-#node:16-alpine
-#nginx
-#nginx:alpine-slim
-python:3.11-alpine3.21
-#python:3.10-alpine3.19
-#python:3.7-alpine3.18
-#amazoncorretto:17-alpine3.19
-#amazoncorretto:17-al2023-jdk
+langgenius/dify-sandbox:main
+qingpan/rnacos:stable-alpine
 
