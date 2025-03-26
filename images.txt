@@ -8,4 +8,5 @@ langgenius/dify-api:main
 langgenius/dify-web:main
 langgenius/dify-sandbox:main
 qingpan/rnacos:stable-alpine
-
+openjdk:11-ea-jdk-slim
+eclipse-temurin:11-jdk-jammy
