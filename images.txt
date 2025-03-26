@@ -4,9 +4,10 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-langgenius/dify-api:main
-langgenius/dify-web:main
-langgenius/dify-sandbox:main
-qingpan/rnacos:stable-alpine
-openjdk:11-ea-jdk-slim
-eclipse-temurin:11-jdk-jammy
+# langgenius/dify-api:main
+# langgenius/dify-web:main
+# langgenius/dify-sandbox:main
+# qingpan/rnacos:stable-alpine
+# openjdk:11-ea-jdk-slim
+# eclipse-temurin:11-jdk-jammy
+eclipse-temurin:8u442-b06-jdk-jammy
