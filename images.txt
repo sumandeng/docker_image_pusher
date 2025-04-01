@@ -7,6 +7,7 @@
 langgenius/dify-api:release-1.1.3-fix1
 langgenius/dify-web:release-1.1.3-fix1
 langgenius/dify-sandbox:0.2.11
+langgenius/dify-plugin-daemon:main-serverless
 # qingpan/rnacos:stable-alpine
 # openjdk:11-ea-jdk-slim
 # eclipse-temurin:11-jdk-jammy
