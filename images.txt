@@ -4,9 +4,9 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-langgenius/dify-api:main
-langgenius/dify-web:main
-langgenius/dify-sandbox:main
+langgenius/dify-api:release-1.1.3-fix1
+langgenius/dify-web:release-1.1.3-fix1
+langgenius/dify-sandbox:0.2.11
 # qingpan/rnacos:stable-alpine
 # openjdk:11-ea-jdk-slim
 # eclipse-temurin:11-jdk-jammy
