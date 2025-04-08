@@ -13,4 +13,5 @@ langgenius/dify-plugin-daemon:main-local
 # openjdk:11-ea-jdk-slim
 # eclipse-temurin:11-jdk-jammy
 # eclipse-temurin:8u442-b06-jdk-jammy
-n8nio/n8n:latest
+#n8nio/n8n:latest
+golang:1.23.8-alpine3.20
