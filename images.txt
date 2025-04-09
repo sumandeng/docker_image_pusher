@@ -4,14 +4,15 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-langgenius/dify-api:release-1.1.3-fix1
-langgenius/dify-web:release-1.1.3-fix1
-langgenius/dify-sandbox:0.2.11
-ubuntu/squid:latest
-langgenius/dify-plugin-daemon:main-local
+#langgenius/dify-api:release-1.1.3-fix1
+#langgenius/dify-web:release-1.1.3-fix1
+#langgenius/dify-sandbox:0.2.11
+#ubuntu/squid:latest
+#langgenius/dify-plugin-daemon:main-local
 # qingpan/rnacos:stable-alpine
 # openjdk:11-ea-jdk-slim
 # eclipse-temurin:11-jdk-jammy
 # eclipse-temurin:8u442-b06-jdk-jammy
 #n8nio/n8n:latest
-golang:1.23.8-alpine3.20
+#golang:1.23.8-alpine3.20
+rancher/klipper-lb:v0.4.9
