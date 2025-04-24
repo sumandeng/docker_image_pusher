@@ -15,4 +15,7 @@
 # eclipse-temurin:8u442-b06-jdk-jammy
 #n8nio/n8n:latest
 #golang:1.23.8-alpine3.20
-rancher/klipper-lb:v0.4.9
+#rancher/klipper-lb:v0.4.9
+openjdk:17-slim
+maven:3.8-openjdk-17-slim
+
