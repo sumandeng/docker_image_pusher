@@ -16,6 +16,8 @@
 #n8nio/n8n:latest
 #golang:1.23.8-alpine3.20
 #rancher/klipper-lb:v0.4.9
-openjdk:17-slim
-maven:3.8-openjdk-17-slim
-
+#openjdk:17-slim
+#maven:3.8-openjdk-17-slim
+openjdk:17-jdk-alpine
+maven:3.9-amazoncorretto-17-alpine
+maven:3.9-eclipse-temurin-17-alpine
