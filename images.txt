@@ -18,6 +18,7 @@
 #rancher/klipper-lb:v0.4.9
 #openjdk:17-slim
 #maven:3.8-openjdk-17-slim
-openjdk:17-jdk-alpine
-maven:3.9-amazoncorretto-17-alpine
-maven:3.9-eclipse-temurin-17-alpine
+#openjdk:17-jdk-alpine
+#maven:3.9-amazoncorretto-17-alpine
+#maven:3.9-eclipse-temurin-17-alpine
+bellsoft/liberica-openjdk-debian:17-cds
