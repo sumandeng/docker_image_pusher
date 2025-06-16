@@ -21,4 +21,5 @@
 #openjdk:17-jdk-alpine
 #maven:3.9-amazoncorretto-17-alpine
 #maven:3.9-eclipse-temurin-17-alpine
-bellsoft/liberica-openjdk-debian:17-cds
+#bellsoft/liberica-openjdk-debian:17-cds
+mysql:8.4.5-oraclelinux9
