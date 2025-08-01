@@ -25,4 +25,5 @@
 #mysql:8.4.5-oraclelinux9
 #rancher/local-path-provisioner:v0.0.31
 #busybox
-findepi/graalvm:java17-native
+#findepi/graalvm:java17-native
+mongo:4.4-focal
