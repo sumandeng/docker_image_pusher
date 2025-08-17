@@ -26,4 +26,5 @@
 #rancher/local-path-provisioner:v0.0.31
 #busybox
 #findepi/graalvm:java17-native
-mongo:4.4-focal
+#mongo:4.4-focal
+deluan/navidrome:latest
