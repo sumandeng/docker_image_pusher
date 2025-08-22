@@ -27,4 +27,5 @@
 #busybox
 #findepi/graalvm:java17-native
 #mongo:4.4-focal
-deluan/navidrome:latest
+#deluan/navidrome:latest
+owntone/owntone:latest
