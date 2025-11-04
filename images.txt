@@ -28,4 +28,11 @@
 #findepi/graalvm:java17-native
 #mongo:4.4-focal
 #deluan/navidrome:latest
-owntone/owntone:latest
+#owntone/owntone:latest
+langgenius/dify-api:main
+langgenius/dify-web:main
+langgenius/dify-plugin-daemon:latest-serverless
+langgenius/dify-plugin-manager:0.12.5
+langgenius/dify-audit:0.12.5
+langgenius/dify-sandbox:main
+langgenius/redis:6.2.16-debian-12-r3
