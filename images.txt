@@ -29,8 +29,8 @@
 #mongo:4.4-focal
 #deluan/navidrome:latest
 #owntone/owatest
-langgenius/dify-api:main
-langgenius/dify-web:main
+langgenius/dify-api:hotfix-1.11.2-fix.3
+langgenius/dify-web:hotfix-1.11.2-fix.3
 langgenius/dify-plugin-daemon:main-local
 langgenius/dify-plugin-manager:0.14.2-hotfix.1
 langgenius/dify-audit:0.14.2-hotfix.1
