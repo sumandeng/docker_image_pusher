@@ -39,4 +39,5 @@
 #semitechnologies/weaviate-console:latest
 #semitechnologies/weaviate:stable-v1.35-7787ada
 #alpine:latest
-pgvector/pgvector:pg16
+#pgvector/pgvector:pg16
+golang:1.26-trixie
