@@ -42,4 +42,5 @@
 #pgvector/pgvector:pg16
 #golang:1.26-trixie
 #python:3.13-slim-trixie
-ghcr.io/volcengine/openviking:v0.3.2
+# ghcr.io/volcengine/openviking:v0.3.2
+node:24-alpine
