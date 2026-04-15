@@ -44,4 +44,4 @@
 #python:3.13-slim-trixie
 # ghcr.io/volcengine/openviking:v0.3.2
 # node:24-alpine
-opensnail/snail-job-admin:latest
+opensnail/snail-job:1.10.0
