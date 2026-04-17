@@ -45,6 +45,6 @@
 # ghcr.io/volcengine/openviking:v0.3.2
 # node:24-alpine
 #opensnail/snail-job:1.10.0
-#ghcr.io/cosmian/kms:5.20
+ghcr.io/cosmian/kms:5.20.1
 #busybox:1.36
-quay.io/keycloak/keycloak:26.0
+#quay.io/keycloak/keycloak:26.0
