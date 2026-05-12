@@ -52,4 +52,5 @@
 #bellsoft/liberica-openjdk-debian:11.0.31-cds
 #quay.io/keycloak/keycloak:26.0
 #justsong/one-api:latest
-maven:3.9.15-eclipse-temurin-11-noble
+#maven:3.9.15-eclipse-temurin-11-noble
+maven:3.9.15-amazoncorretto-11
