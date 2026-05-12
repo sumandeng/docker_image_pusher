@@ -48,7 +48,8 @@
 #opensnail/snail-job:1.10.0
 #ghcr.io/cosmian/kms:5.20.1
 #busybox:1.36
-bellsoft/liberica-openjdk-debian:11.0.31
-bellsoft/liberica-openjdk-debian:11.0.31-cds
+#bellsoft/liberica-openjdk-debian:11.0.31
+#bellsoft/liberica-openjdk-debian:11.0.31-cds
 #quay.io/keycloak/keycloak:26.0
-justsong/one-api:latest
+#justsong/one-api:latest
+maven:3.9.15-eclipse-temurin-11-noble
