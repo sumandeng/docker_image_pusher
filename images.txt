@@ -11,9 +11,9 @@
 #langgenius/dify-plugin-daemon:main-local
 # qingpan/rnacos:stable-alpine
 # openjdk:11-ea-jdk-slim
-eclipse-temurin:11-jdk-jammy
+#eclipse-temurin:11-jdk-jammy
 # eclipse-temurin:8u442-b06-jdk-jammy
-eclipse-temurin:11.0.31_11-jdk-jammy
+#eclipse-temurin:11.0.31_11-jdk-jammy
 #n8nio/n8n:latest
 #golang:1.23.8-alpine3.20
 #rancher/klipper-lb:v0.4.9
@@ -48,5 +48,7 @@ eclipse-temurin:11.0.31_11-jdk-jammy
 #opensnail/snail-job:1.10.0
 #ghcr.io/cosmian/kms:5.20.1
 #busybox:1.36
+bellsoft/liberica-openjdk-debian:11.0.31
+bellsoft/liberica-openjdk-debian:11.0.31-cds
 #quay.io/keycloak/keycloak:26.0
 justsong/one-api:latest
