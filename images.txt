@@ -62,4 +62,4 @@
 #postgres:17-alpine
 #caddy:2-alpine
 #node:24-trixie-slim
-05jchambers/legendary-minecraft-geyser-floodgate:1.20.1
+05jchambers/legendary-minecraft-geyser-floodgate:latest
